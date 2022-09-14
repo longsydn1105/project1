@@ -1,0 +1,158 @@
+@font-face{
+	font-family: "helvetica";
+	src: url("../bootstrap3/font/Helvetica Neue Medium Extended.ttf") format("truetype");
+}
+@font-face{
+	font-family: "opensans";
+	src: url("../bootstrap3/font/OpenSans_SemiCondensed-SemiBold.ttf") format("truetype");
+}/*Navbar*/
+.bg-header{
+	background: #db001b;
+}
+.item-news-img {
+	width:  140px !important;
+}
+.navbar-nav{
+	font-size: 14px !important;
+	font-family: Myriad Pro;
+
+}
+.navbar-light .navbar-nav .nav-link {
+    color: white !important;
+    margin-right: 15px !important;
+}
+.form-control{
+	background: #e7e7e7 !important;
+	border-radius: 30px !important;
+}
+.tintuc-list{
+    border-bottom: 1px solid #7C787B;
+    padding-bottom: 8px;
+    color: #858587;
+    font-size: 12px;
+    font-family: arial;
+    font-weight: bold;
+}
+.tintuc-list:hover {
+    color: white !important;
+    background: red !important;
+}
+
+
+
+/*Trang tin tức*/
+.tin-tuc {
+    color:#DB001B;
+}
+.new-item {
+    margin-top:15px;
+}
+.item-title {
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+.item-title a {
+    color: #58595b;
+    font-family: arial;
+    font-size: 15px;
+    font-weight: bold;
+}
+.item-title a:hover{
+    color: #DB001B;
+}
+.item-des {
+    color:#58595b;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size:14px;
+    line-height: 17px;
+}
+.more {
+    background: #A1A1A1;
+    border-radius: 5px;
+    color: white;
+    font-size: 12px;
+    font-family: arial;
+    margin-left: 80%;
+    padding: 3px;
+}
+.more:hover{
+    color:white;
+    background:#DB001B;
+    text-decoration:none;
+}
+.card-border-bt {
+    border-bottom: 1px solid #CECECE;
+    padding-bottom: 20px;
+}
+.chuyen-trang {
+    margin-left: 20px;
+    padding-bottom: 20px;
+}
+
+
+
+
+
+
+
+
+
+/*Video*/
+.des-video {
+	background: #c50c30;
+	padding:10px;
+	margin-bottom: 20px;
+	color: white;
+	font-size: 13px;
+	line-height: 16px;
+	font-family: arial;
+}
+.tu-van {
+	background: #D4D4D4;
+	padding: 10px;
+}
+.tu-van-title {
+	color: #F70A27;
+	font-size: 20px;
+	margin-bottom: 8px;
+}
+
+
+/*Footer*/
+.phone {
+	color: #5C5C5C;
+	font-size:15px;
+	margin-bottom: 5px;
+}
+.phone span {
+	color:#F70A27 !important;
+
+}
+.email {
+	color: #5C5C5C;
+	font-size:15px;
+	margin-bottom: 5px;
+}
+.email span {
+	color:#F70A27 !important;
+
+}
+footer {
+	margin-top: 40px;
+	padding-bottom: 15px;
+	background: #ECECEC;
+}
+.sdt {
+	margin-top: 25px;
+	color: #F70A27;
+	border-right: 1px solid #c1c1c1;
+}
+.dia-chi{
+	margin-top: 25px;
+}
+.link  {
+	margin-top: 25px;
+}
+.link li {
+	margin-left:5px;
+}

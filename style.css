@@ -1,0 +1,170 @@
+@font-face{
+	font-family: "helvetica";
+	src: url("../bootstrap3/font/Helvetica Neue Medium Extended.ttf") format("truetype");
+}
+@font-face{
+	font-family: "opensans";
+	src: url("../bootstrap3/font/OpenSans_SemiCondensed-SemiBold.ttf") format("truetype");
+}
+.bg-header{
+	background: #db001b;
+}
+.item-news-img {
+	width:  140px !important;
+}
+.navbar-nav{
+	font-size: 14px !important;
+	font-family: Myriad Pro;
+
+}
+.navbar-light .navbar-nav .nav-link {
+    color: white !important;
+    margin-right: 18px !important;
+}
+.form-control{
+	background: #e7e7e7 !important;
+	border-radius: 30px !important;
+}
+
+.img-slide{
+	width: 250px;
+	height:230px;
+	
+}
+.content h5  {
+	font-family: helvetica;
+	color: #db001b;
+	margin-left: 40%;
+}
+.content h6 {
+	font-family: arial;
+	color: black;
+	font-weight: bold;
+	font-size: 18px;
+}
+.content p {
+	
+	color: #7C787B;
+	font-size:15px;
+	margin-bottom: 10px;
+}
+.content a {
+	background: #E91A33;
+	color: white;
+	width: 135px;
+	border-radius: 10px;
+	padding: 3px;
+	margin-left: 40%;
+	
+}
+.slide {
+	margin-bottom: 20px;
+}
+.border-bt {
+	border-bottom: 3px solid #F3F3F3;
+	padding: 20px;
+}
+.next-left {
+	color: red;
+}
+
+
+
+
+
+
+.main-content {
+	margin-top: 20px;
+}
+.content-des {
+	color:  #c1c1c1;
+	margin-top: 10px;
+	font-family: arial;
+}
+.item-news{
+	margin-bottom: 20px;
+	border-bottom: 1px solid #ececec;
+	padding-bottom: 5px;
+}
+.item-news-img{
+	max-height: 80px;
+	width:  100%;
+	border: 1px solid #c1c1c1;
+	padding: 5px;
+}
+.title {
+	margin: 0px;
+
+	font-family: opensans;
+	font-size: 20px;
+}
+.date-time {
+	color: #D4D4D4;
+	margin-top: 5px;
+	margin-bottom: 5px;
+	font-size: 12px;
+	
+}
+.des-new {
+	color:#7C787B;
+	font-size: 16px;
+	font-family: arial;
+}
+.des-new a {
+	color: red;
+}
+.des-video {
+	background: #c50c30;
+	padding:10px;
+	margin-bottom: 20px;
+	color: white;
+	font-size: 13px;
+	line-height: 16px;
+	font-family: arial;
+}
+.tu-van {
+	background: #D4D4D4;
+	padding: 10px;
+}
+.tu-van-title {
+	color: #F70A27;
+	font-size: 20px;
+	margin-bottom: 8px;
+}
+.phone {
+	color: #5C5C5C;
+	font-size:15px;
+	margin-bottom: 5px;
+}
+.phone span {
+	color:#F70A27 !important;
+
+}
+.email {
+	color: #5C5C5C;
+	font-size:15px;
+	margin-bottom: 5px;
+}
+.email span {
+	color:#F70A27 !important;
+
+}
+footer {
+	margin-top: 40px;
+	padding-bottom: 15px;
+	background: #ECECEC;
+}
+.sdt {
+	margin-top: 25px;
+	color: #F70A27;
+	border-right: 1px solid #c1c1c1;
+}
+.dia-chi{
+	margin-top: 25px;
+}
+.link  {
+	margin-top: 25px;
+}
+.link li {
+	margin-left:5px;
+}
